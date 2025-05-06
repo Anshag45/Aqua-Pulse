@@ -1,4 +1,5 @@
 AquaPulse 🌊
+
 AquaPulse is a real-time water quality monitoring and forecasting dashboard that uses predictive analytics and anomaly detection to assess and visualize water quality trends across different regions.
 
 
