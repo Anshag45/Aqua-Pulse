@@ -1,6 +1,6 @@
 ## 🌊 AquaSenseAI
 
-**AquaPulse** is a real-time water quality monitoring and forecasting dashboard that uses predictive analytics and anomaly detection to assess and visualize water quality trends across different regions.
+**AquaSenseAI** is a real-time water quality monitoring and forecasting dashboard that uses predictive analytics and anomaly detection to assess and visualize water quality trends across different regions.
 
 ![WhatsApp Image 2025-05-06 at 18 52 15_1441e545](https://github.com/user-attachments/assets/53d711a0-4ab3-4a05-b837-eeacf4f5d50b)
 
