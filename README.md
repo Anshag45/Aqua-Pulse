@@ -166,8 +166,7 @@ Please read CONTRIBUTING.md for detailed guidelines.
 AquaSense AI is licensed under the MIT License - see LICENSE for details.
 
 📧 Contact
-Project Lead: [Your Name] - contact@example.com
-GitHub Issues: https://github.com/your-username/aqua-sense-ai/issues
+Project Lead: Ansh Agarwal
 Live Demo: https://aqua-sense-ai.vercel.app/
 
 AquaSense AI - Making water safety intelligent and accessible for everyone. 💧🤖
