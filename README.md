@@ -1,4 +1,9 @@
 AquaSense AI is an advanced water quality monitoring platform that leverages artificial intelligence to analyze and predict water safety in real-time. This system empowers communities, environmental agencies, and researchers with actionable insights to ensure water safety and prevent contamination-related health risks.
+![image](https://github.com/user-attachments/assets/b165463f-a2f9-4450-a192-0ae9375176c2)
+![image](https://github.com/user-attachments/assets/82b7c18f-36c7-4330-882a-269697f94484)
+![image](https://github.com/user-attachments/assets/1e3c8d3a-a5f7-489d-8e00-21856b17511e)
+![image](https://github.com/user-attachments/assets/45298a3f-7d05-4c43-9143-feb513bfad6e)
+![image](https://github.com/user-attachments/assets/5451c121-1926-4d75-aac8-aec824491b91)
 
 🌊 What AquaSense AI Actually Does
 AquaSense AI transforms raw water quality data into intelligent insights through:
@@ -109,7 +114,7 @@ Python 3.9+ (for ML model training)
 Installation
 bash
 # Clone repository
-git clone https://github.com/your-username/aqua-sense-ai.git
+git clone https://github.com/Anshag45/Aqua-Sense-AI.git
 cd aqua-sense-ai
 
 # Install dependencies
