@@ -1,4 +1,5 @@
 AquaSense AI is an advanced water quality monitoring platform that leverages artificial intelligence to analyze and predict water safety in real-time. This system empowers communities, environmental agencies, and researchers with actionable insights to ensure water safety and prevent contamination-related health risks.
+![image](https://github.com/user-attachments/assets/7a40fa36-27be-421b-9cef-ac07ad5bec0a)
 ![image](https://github.com/user-attachments/assets/b165463f-a2f9-4450-a192-0ae9375176c2)
 ![image](https://github.com/user-attachments/assets/82b7c18f-36c7-4330-882a-269697f94484)
 ![image](https://github.com/user-attachments/assets/1e3c8d3a-a5f7-489d-8e00-21856b17511e)
